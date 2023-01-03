@@ -1,7 +1,7 @@
 [
 {
 "Name":"MicroG",
-"Icon":"",
+"Icon":"https://github.com/JaneAoV/YT_Manager_API/raw/main/Icon/MicroG.png",
 "Theme":"",
 "Package":"com.mgoogle.android.gms",
 "Version":"0.2.26.224913",
@@ -9,7 +9,7 @@
 },
 {
 "Name":"YouTube",
-"Icon":"",
+"Icon":"https://github.com/JaneAoV/YT_Manager_API/raw/main/Icon/Youtube.png",
 "Theme":"Black",
 "Package":"17.49.37",
 "Version":"app.revanced.android.youtube",
@@ -17,7 +17,7 @@
 },
 {
 "Name":"YouTube",
-"Icon":"",
+"Icon":"https://github.com/JaneAoV/YT_Manager_API/raw/main/Icon/Youtube.png",
 "Theme":"Monet",
 "Package":"17.49.37",
 "Version":"app.revanced.android.youtube",

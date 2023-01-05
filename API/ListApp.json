@@ -1,18 +1,10 @@
 [
 {
-"Name":"MicroG",
 "Icon":"https://github.com/JaneAoV/YT_Manager_API/raw/main/Icon/MicroG.png",
-"Info":"",
+"Name":"MicroG",
+"Info":"For PUBG Mobile, FreeFire , FreeFire Max | AoV, RoV , Liên Quân ,...",
 "Package":"com.mgoogle.android.gms",
-"Version":"224913",
-"Link":""
-},
-{
-"Name":"YouTube",
-"Icon":"https://github.com/JaneAoV/YT_Manager_API/raw/main/Icon/Youtube.png",
-"Info":"Black",
-"Package":"17.49.37",
-"Version":"app.revanced.android.youtube",
-"Link":""
+"Ver":"6.5",
+"Link":"https://github.com/JaneAoV/DN_Manager/releases/download/File/DN_Turbo_6.5.apk"
 }
 ]
